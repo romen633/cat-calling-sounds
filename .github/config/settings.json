@@ -1,0 +1,7 @@
+{
+  "theme": "dark",
+  "audioDefaults": {
+    "volume": 80,
+    "loop": false
+  }
+}
