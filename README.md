@@ -16,8 +16,8 @@ A fun, interactive app generating various cat-calling sounds.
 
 ## Author
 **Your Name**  
-📧 your-email@example.com  
-🌐 your-website.com  
+📧 your-romen633cloud@outlook.com
+🌐 your-[cat calling sounds](https://www.catmeowsounds.com)
 
 ## Getting Started
 1. Clone the repository:
